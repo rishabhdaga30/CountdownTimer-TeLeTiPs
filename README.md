@@ -22,7 +22,7 @@
 ## Commands
 ### Works in any group ( /set  &  /stopc )
 
-[🎥 Tutorial Video: ](https://www.youtube.com/watch?v=nYSrgdIYdTw)
+[🎥 Tutorial : ](https://www.instagram.com/rvisiondigital/)
 
 ```
 > Send the command below in correct format to the group.
@@ -45,7 +45,7 @@ Example:
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teletips/CountdownTimer-TeLeTiPs)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rishabhdaga30/CountdownTimer-TeLeTiPs)
     
 ## Credits
 - [TeLe TiPs](https://github.com/teletips)
